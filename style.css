@@ -5,21 +5,20 @@ body {  background-color:white;}
 html{background:#255;}
 
 body{
-  text-align: center;
+    text-align: center;
     padding:0;
     margin:10;
     font-family: 'Permanent Marker';
     font-weight:100;
     margin:20px;
-    z-index:0;
-    color: blue;
+    color: darkBlue;
 
   }
 
 #fade-content{
   text-align: center;
   font-family: 'Permanent Marker';
-  color: pink;
+  color: darkBlue;
 }
 
 #Contacts{
