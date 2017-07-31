@@ -2,14 +2,26 @@
 /*background*/
 body {  background-color:white;}
 
-h1 {color:pink;}
+html{background:#255;}
 
-p {color:pink;}
-li {color: pink;}
+body{
+  text-align: center;
+    padding:0;
+    margin:10;
+    font-family: 'Permanent Marker';
+    font-weight:100;
+    margin:20px;
+    z-index:0;
+    color: blue;
+
+  }
 
 #fade-content{
   text-align: center;
   font-family: 'Permanent Marker';
-  a:link {black};
+  color: pink;
+}
+
+#Contacts{
 
 }
