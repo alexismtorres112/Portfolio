@@ -1,6 +1,15 @@
+
+/*background*/
 body {  background-color:white;}
 
 h1 {color:pink;}
 
 p {color:pink;}
 li {color: pink;}
+
+#fade-content{
+  text-align: center;
+  font-family: 'Permanent Marker';
+  a:link {black};
+
+}
